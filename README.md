@@ -139,8 +139,8 @@
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
-- [holic-x](https://github.com/holic-x/holic-x)
 - [Sidra Waseem](https://github.com/sidramwaseem/sidramwaseem)
+- [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
