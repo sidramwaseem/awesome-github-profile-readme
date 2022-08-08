@@ -139,7 +139,6 @@
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
-- [Sidra Waseem](https://github.com/sidramwaseem/sidramwaseem)
 - [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
@@ -258,7 +257,6 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
-- [Sidra Waseem](https://github.com/sidramwaseem/sidramwaseem)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
